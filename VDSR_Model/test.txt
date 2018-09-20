@@ -1,0 +1,5 @@
+/data/Yao/Data_Math_Project/Preprocess/Data_test/Kidney_test.h5
+/data/Yao/Data_Math_Project/Preprocess/Data_test/Onion_test.h5
+/data/Yao/Data_Math_Project/Preprocess/Data_test/Stone_test.h5
+/data/Yao/Data_Math_Project/Preprocess/Data_test/Tongue_test.h5
+
