@@ -1,0 +1,5 @@
+/data/Yao/Data_Math_Project/Preprocess/Data_train/Kidney_train.h5
+/data/Yao/Data_Math_Project/Preprocess/Data_train/Onion_train.h5
+/data/Yao/Data_Math_Project/Preprocess/Data_train/Stone_train.h5
+/data/Yao/Data_Math_Project/Preprocess/Data_train/Tongue_train.h5
+
