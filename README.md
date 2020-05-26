@@ -1,17 +1,13 @@
-# Super-Resolution
-This repo contains the code to perform Super-resolution on images using SRCNN and VDSR.
+### Super-Resolution
 
-Image pre-processing and post-processing was done in MATLAB and training on Caffe.
+The goal of this project is to perform Super-resolution on microscopic images of kidneys and tongues. Deep CNN models like Super-Resolution Convolutional Neural Network (SRCNN) and Very Deep Super Resolution (VDSR) networks were used.
 
-The following folders contain the code for pre processing steps:
+Image pre-processing and post-processing was done in MATLAB and the model was built using Caffe.
+
+The pre processing steps consist of:
 
 (1) Image Registration
 
 (2) Color Correction
 
-
-The following folders contain the code for the model and post processing steps:
-
-(1) SRCNN (contains the model code in Caffe and PSNR calculation in MATLAB)
-
-(2) VDSR (contains the model code in Caffe and PSNR calculation in MATLAB)
+Peak Signal-to-Noise Ratio was used to evaluate the performance of these models. A PSNR of 0.05 dB was obtained using SRCNN and a PSNR of 0.33 dB was obtained using VDSR  
